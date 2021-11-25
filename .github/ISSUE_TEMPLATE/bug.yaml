@@ -4,7 +4,7 @@ description: >
   Thank you for taking the time to help out the AutoKey project!
   Click the "Get started" button to file your bug/issue report.
 labels: [bug, help wanted]
-assignees: Elliria
+assignees: [Elliria, Joe]
 body:
   # EXISTING ISSUE
   - type: checkboxes
