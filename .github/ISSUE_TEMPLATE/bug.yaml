@@ -128,7 +128,7 @@ body:
   - type: textarea
     id: actual-result
     attributes:
-      label: Current Behavior
+      label: "Actual result:"
       description: Provide a description of what actually happened.
     validations:
       required: false
